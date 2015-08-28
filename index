@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="css/main.css">
+	<title>Git COOL</title>
+</head>
+<body>
+	<div class="container">
+		<h1>Second commit</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure porro praesentium eaque necessitatibus, ratione hic repudiandae magnam, repellat neque. Facere illo, nihil illum atque dolores. Velit facere aspernatur harum quo maiores, beatae culpa, vitae. Possimus corporis veritatis ut exercitationem repellat quasi et ipsum voluptatibus laboriosam. Debitis et cupiditate necessitatibus dolorum fugit, quas ea quod aliquam suscipit veniam fuga magni hic perspiciatis facere soluta ipsum! Odio quod nam, doloremque quasi praesentium explicabo fugiat expedita quaerat molestias est. Sequi eius quos perspiciatis quo assumenda officia omnis similique ad, quam, at natus non, excepturi laborum obcaecati sint eaque odit quod nihil dolorum! Nesciunt.</p>
+	</div>
+</body>
+</html>
